@@ -5,4 +5,4 @@ console.log("This is my first commit");
 
 
 console.log("This is my first  commit form newbranch");
-console.log("this ius second commit from newbranch");
+console.log("this ius second commit ");
